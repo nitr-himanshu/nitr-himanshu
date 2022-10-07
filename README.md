@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitr-himanshu
+- 👋 Hi, I’m Himanshu
 - 👀 I’m interested in C++,Python,Android
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Python
