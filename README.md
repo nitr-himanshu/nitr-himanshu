@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu
 - 👀 I’m interested in C++,Python,Android
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning gRPC, protobuf
+- 💞️ I’m looking to collaborate on Python, C++
 - 📫 Reach me thehimanshukeshri@gmail.com
 
 <!---
